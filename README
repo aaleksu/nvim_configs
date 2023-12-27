@@ -1,0 +1,9 @@
+this folder should be placed into ~/.config/nvim dir, and neovim should be installed before, ofcourse.
+
+nvim + neovide nvchad configuration
+
+bashrc vim aliases:
+```
+alias vim='nnvim'
+alias orig_vim='/usr/local/bin/vim'
+```
