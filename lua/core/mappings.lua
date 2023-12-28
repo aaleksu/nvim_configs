@@ -53,6 +53,9 @@ M.general = {
       end,
       "LSP formatting",
     },
+
+    -- @aa: added on 28.12.23
+    ["ff"] = { "1<C-g>", "Show current file path" },
   },
 
   t = {
